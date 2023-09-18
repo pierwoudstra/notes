@@ -30,7 +30,7 @@ There are two types of comb filters:
 
     comb filters with negative feed 
 
-**Comb filters with + feed** produce all of the harmonics, while comb **filters with - feed** only produce odd harmonics that sound an octave lower.
+Comb filters with **+ feed** produce all of the harmonics, while comb filters with **- feed** only produce odd harmonics that sound an octave lower.
 
 This is the difference between a pipe with a closed and open end, a pipe with a closed end will sound an octave lower. This is used in church organs to get lower octaves without making the pipes too long. 
 
