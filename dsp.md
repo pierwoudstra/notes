@@ -6,3 +6,4 @@
 
 2. [Comb filters](dsp2.md)
 
+3. [Difference equations](dsp3.md)
